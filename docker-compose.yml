@@ -1,0 +1,17 @@
+services:
+  holy-unblocker:
+    image: holywebwork/website2
+    container_name: holy-unblocker
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    volumes:
+      - holy-unblocker-config:/app/config
+
+volumes:
+  holy-unblocker-config:
+    name: holy-unblocker-config
+
+networks:
+  default:
+    name: holy-unblocker

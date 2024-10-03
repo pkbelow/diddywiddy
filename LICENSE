@@ -1,0 +1,36 @@
+Holy Unblocker Frontend code is under a modified ISC license and is accessible at https://github.com/holy-unblocker/website2
+
+To clarify any confusion about previous licenses available for Holy Unblocker:
+
+- The React version of Holy Unblocker (https://github.com/holy-unblocker/website) is licensed under GPLv3
+- The Astro rewrite of Holy Unblocker (this repository) is licensed under a modified ISC license.
+
+Holy Unblocker's official website/instance of Holy Unblocker can be found at https://holyubofficial.net/
+
+Copyright David Reed (c) 2024 Holy Unblocker
+
+TERMS:
+By deploying or running code from the Holy Unblocker Frontend Repository, you are deploying an instance of Holy Unblocker.
+
+CONDITIONS:
+The website2 repository is an instance of Holy Unblocker,
+this isn't to be confused with Holy Unblocker, the brand/copyright.
+
+You will not activate the stripe payment system without my prior permission. You can ask me for permission :D
+
+The rights to the name "Holy Unblocker" is reserved by me, and you will not use the name in any manner that I deem unfair.
+By default, any use of the name "Holy Unblocker" is fair. But making configuration changes or updates to this source code may change that,
+and if you feel like your change may violate what I deem "fair", please feel free to contact me :D
+reedswork@proton.me (email) or @reedzyseason (Discord).
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
